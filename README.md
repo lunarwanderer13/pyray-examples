@@ -32,5 +32,8 @@ Windows:
 
 (one can later exit out of the virtual environment using the `deactivate` command)  
 
+Install the required libraries:  
+`pip install -r requirements.txt`
+
 Run the chosen example:  
 `python examples/<example>/main.py`, where &lt;example&gt; is the chosen example name.  
